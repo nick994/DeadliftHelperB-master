@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DeadliftHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_record_deadlift">RecordDeadlift</string>
+    <string name="title_activity_view_lifts">ViewLifts</string>
+    <string name="title_activity_set_filters">SetFilters</string>
+    <string name="title_activity_timer_count">TimerCount</string>
+</resources>
